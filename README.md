@@ -28,3 +28,5 @@ python complex.py
 - The p command calculates the trigonometric form, the exponential form, and the polar coordinates.
 - The commands s, r, m, d ... are for addition, subtraction, multiplication, division (in that order).
 - The graph command allows you to graph up to 10 complex numbers on the same Cartesian axis, according to your choice.
+
+> © 2021 Made by IgnacioPrados
