@@ -1,7 +1,7 @@
 # Complex Numbers Operations
 Python program that make operations with complex numbers, and then generate a graph.
 <br><br>
-Creator: Facundo Pedaccio
+Creator: Facundo Pedaccio [fpedaccio](https://github.com/fpedaccio)
 <br><br>
 Key Technologies used: Python - numpy - cmath - matplotlib
 
