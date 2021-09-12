@@ -3,7 +3,7 @@ Python program that make operations with complex numbers, and then generate a gr
 <br><br>
 Creator: [fpedaccio](https://github.com/fpedaccio)
 <br>
-Readme Author: Ignacio Prados
+Readme Author: [IgnacioPrados](https://github.com/IgnacioPrados)
 <br><br>
 Key Technologies used: Python - numpy - cmath - matplotlib
 
